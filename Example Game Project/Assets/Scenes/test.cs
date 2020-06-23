@@ -15,6 +15,9 @@ public class test : MonoBehaviour
 
         tests = true;
 
+        tests = false;
+
+
     }
 
     // Update is called once per frame
