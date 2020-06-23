@@ -9,6 +9,8 @@ public class test : MonoBehaviour
     void Start()
     {
         tests = true;
+
+        tests = false;
     }
 
     // Update is called once per frame
