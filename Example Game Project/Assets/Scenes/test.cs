@@ -13,7 +13,7 @@ public class test : MonoBehaviour
 
         tests = false;
 
-        
+        tests = true;
 
     }
 
